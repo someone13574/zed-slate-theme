@@ -1,7 +1,7 @@
 id = "slate"
 name = "Slate"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Owen Law <owenlaw222@gmail.com>"]
-description = "Clean, borderless, light and dark theme."
+description = "A clean light and dark theme."
 repository = "https://github.com/someone13574/zed-slate-theme"

@@ -7,8 +7,8 @@
             "name": "Slate Dark",
             "style": {
                 "background": "#383838ff",
-                "border": "#00000000",
-                "border.variant": "#00000000",
+                "border": "#202020ff",
+                "border.variant": "#282828ff",
                 "created": "#33d17aff",
                 "deleted": "#d00000ff",
                 "drop_target.background": "#ffffff30",
@@ -84,8 +84,8 @@
             "name": "Slate Light",
             "style": {
                 "background": "#c0c0c0ff",
-                "border": "#00000000",
-                "border.variant": "#00000000",
+                "border": "#e0e0e0ff",
+                "border.variant": "#d0d0d0ff",
                 "created": "#26a269",
                 "deleted": "#ff0000ff",
                 "drop_target.background": "#00000030",
