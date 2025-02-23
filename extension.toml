@@ -1,6 +1,6 @@
 id = "slate"
 name = "Slate"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Owen Law <owenlaw222@gmail.com>"]
 description = "A clean light and dark theme."
